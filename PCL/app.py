@@ -7,7 +7,7 @@ from pyzbar import pyzbar
 import cv2
 import numpy as np
 import os
-
+# hi i'm samith 
 # --- Constants ---
 DB_FILE = 'products.csv'
 OFF_API_URL = "https://world.openfoodfacts.org/api/v2/product/{}.json"
